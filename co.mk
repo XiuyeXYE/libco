@@ -22,6 +22,8 @@
 MAIL_ROOT=.
 SRCROOT=.
 
+CC = g++
+
 ##define the compliers
 CPP = $(CXX)
 AR = ar -rc
